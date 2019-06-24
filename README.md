@@ -40,5 +40,7 @@ Info:      Processes: 284 Uptime: 6:33 Memory: 2316.2/7873.1MB Client: Shell (ba
 
 ```
 Memory pool overhead graph
-[image](/images/rplot01.png)
+<p align="center">
+  <img src="images/Rplot01.png" width="750" title="Memory pool overhead">
+</p>
 
