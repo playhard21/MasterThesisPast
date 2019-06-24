@@ -1,16 +1,14 @@
-# MasterThesis
-This repository used for managing the code for my master thesis
 
 ## Funndamentals
 link for the basic [fundamentals](http://pinnecke.info/dl/lectures/pinnecke-ws1920_atdb_docsqljson.pdf).
 
-## Programing Task
+### Programing Task
 This [programing task](https://github.com/protolabs/libcarbon/blob/teaching/atdb/2019/atdb_2019_programming_sheet_pinnecke.pdf) is to become involved and make my hands dirty in the research related to memorypool.
 
-### Task1
-#### 1.1
+#### Task1
+##### 1.1
 My Registration number Goes Hear
-#### 1.2
+##### 1.2
 My system information 
 ```
 System:    Host: aravind-Lenovo-Z50-70 Kernel: 4.15.0-52-generic x86_64 (64 bit) Desktop: Unity 7.4.5
@@ -44,3 +42,9 @@ Memory pool overhead graph
   <img src="images/Rplot01.png" width="750" title="Memory pool overhead">
 </p>
 
+#### Task 2 Improving the Memory Pool
+All the strategy will be explained hear  
+
+#### Task 3 Discussion
+
+### Research Ideas for thesis (JSON to CARBON conversion)
