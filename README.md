@@ -5,7 +5,7 @@ This repository used for managing the code for my master thesis
 link for the basic [fundamentals](http://pinnecke.info/dl/lectures/pinnecke-ws1920_atdb_docsqljson.pdf).
 
 ## Programing Task
-This [programing task](https://github.com/protolabs/libcarbon/blob/teaching/atdb/2019/atdb_2019_programming_sheet_pinnecke.pdf) is to become involved in the research related to memorypool.
+This [programing task](https://github.com/protolabs/libcarbon/blob/teaching/atdb/2019/atdb_2019_programming_sheet_pinnecke.pdf) is to become involved and make my hands dirty in the research related to memorypool.
 
 ### Task1
 #### 1.1
@@ -39,3 +39,6 @@ Sensors:   System Temperatures: cpu: 53.0C mobo: N/A
 Info:      Processes: 284 Uptime: 6:33 Memory: 2316.2/7873.1MB Client: Shell (bash) inxi: 2.2.35 
 
 ```
+Memory pool overhead graph
+[image](/images/rplot01.png)
+
